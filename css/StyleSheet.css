@@ -1,0 +1,18 @@
+﻿.btn {
+	margin-top: 10px;
+}
+
+.fizzbuzz {
+	color: red;
+	font-size: x-large;
+}
+
+.fizz {
+	color: yellow;
+	font-size: x-large;
+}
+
+.buzz {
+	color: green;
+	font-size: x-large;
+}
