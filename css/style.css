@@ -687,10 +687,11 @@ a, a:hover {
 }
 
 .cover-v1 {
-  background-size: cover;
-  background-position: center center;
-  background-repeat: repeat;
-  width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-image: url('../images/fizzbuzz.jpg');
 }
 
 .cover-v1.gradient-bottom-black {
